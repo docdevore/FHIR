@@ -1,0 +1,25 @@
+﻿
+
+Attempting to gather dependency information for package 'Newtonsoft.Json.10.0.3' with respect to project 'FHIR', targeting '.NETFramework,Version=v4.5.2'
+Gathering dependency information took 575.05 ms
+Attempting to resolve dependencies for package 'Newtonsoft.Json.10.0.3' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'Newtonsoft.Json.10.0.3'
+Resolved actions to install package 'Newtonsoft.Json.10.0.3'
+  GET https://api.nuget.org/v3-flatcontainer/newtonsoft.json/10.0.3/newtonsoft.json.10.0.3.nupkg
+Retrieving package 'Newtonsoft.Json 10.0.3' from 'nuget.org'.
+Removed package 'Newtonsoft.Json.9.0.1' from 'packages.config'
+  OK https://api.nuget.org/v3-flatcontainer/newtonsoft.json/10.0.3/newtonsoft.json.10.0.3.nupkg 163ms
+Installing Newtonsoft.Json 10.0.3.
+Successfully uninstalled 'Newtonsoft.Json.9.0.1' from FHIR
+Adding package 'Newtonsoft.Json.10.0.3' to folder 'C:\Users\doc_a\source\repos\FHIR\packages'
+Added package 'Newtonsoft.Json.10.0.3' to folder 'C:\Users\doc_a\source\repos\FHIR\packages'
+Added package 'Newtonsoft.Json.10.0.3' to 'packages.config'
+Executing script file 'C:\Users\doc_a\source\repos\FHIR\packages\Newtonsoft.Json.10.0.3\tools\install.ps1'...
+Successfully installed 'Newtonsoft.Json 10.0.3' to FHIR
+Removing package 'Newtonsoft.Json.9.0.1' from folder 'C:\Users\doc_a\source\repos\FHIR\packages'
+Removed package 'Newtonsoft.Json.9.0.1' from folder 'C:\Users\doc_a\source\repos\FHIR\packages'
+Executing nuget actions took 16.73 sec
+Time Elapsed: 00:00:17.7798960
+========== Finished ==========
+
